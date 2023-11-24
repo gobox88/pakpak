@@ -1,6 +1,6 @@
 https://raw.githubusercontent.com/gobox88/pakpak/main/lic.txt
 https://raw.githubusercontent.com/gobox88/pakpak/main/lic2.txt
-https://gist.githubusercontent.com/muskara078/dc3b602cb5f7b834b33aa9b0a2fda4e4/raw/2f8ee2113495502d1ca4c00511829a6e4ed9ea00/kawkaw.txt
+https://gist.githubusercontent.com/muskara078/dc3b602cb5f7b834b33aa9b0a2fda4e4/raw/6d4ff1ba7934da300829691c26b889758c95819a/kawkaw.txt
 https://raw.githubusercontent.com/gobox88/kakar/main/sps.txt
 https://raw.githubusercontent.com/gobox88/kakar/main/sps22.txt
 https://gist.githubusercontent.com/muskara078/e7b5f65ebe8221f5a295df54343c646b/raw/18743396f2eef70872f1f8edef98b246af1b0d31/mermer.json
